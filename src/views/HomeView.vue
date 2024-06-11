@@ -17,7 +17,7 @@
         </div>
     </div>
     </div>
-    <div class="mt-4">
+    <div class="mt-4 pb-6">
         <ul class="timeline timeline-vertical md:timeline-horizontal">
         <li>
             <div class="timeline-start">2008</div>
