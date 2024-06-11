@@ -51,7 +51,7 @@ const isDescription= ref(false)
                 </div>
                 <div class="flex justify-end">
                     <a target="_blank" :href="select.codelink">
-                        <button class="btn btn-outline btn-primary px-6 w-full">Get Code</button>
+                        <button class="btn btn-outline btn-primary px-6 w-full">Code</button>
                     </a>
                     <a target="_blank" :href="select.playlink">
                         <button class="btn btn-outline btn-accent px-6 w-full ml-2" v-if="select.playlink">Try</button>

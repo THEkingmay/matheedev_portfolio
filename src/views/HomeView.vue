@@ -1,7 +1,7 @@
 <script setup>
 </script>
 <template>
-  <div class="shadow-xl rounded-lg flex flex-col items-center p-6  max-w-3xl mx-auto ">
+  <div class="shadow-xl rounded-lg flex flex-col items-center p-6 max-w-3xl mx-auto h-fit">
     <div class="flex flex-col items-center mb-4 md:flex-row">
         <div class="avatar p-2">
         <div class="w-56 rounded-full shadow-xl overflow-hidden">
