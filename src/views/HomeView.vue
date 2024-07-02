@@ -13,7 +13,7 @@
             Mathee Rewbumrung
         </div>
         <div class="text-lg px-2">
-            Computer Science, <br> Kasetsaet University
+            Computer Science, <br> Kasetsart University
         </div>
     </div>
     </div>
