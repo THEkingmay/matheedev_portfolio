@@ -64,6 +64,14 @@ export const usePortstore = defineStore('portfolio',{
         vedio:'/video/uni_class.mp4',
         codelink:'https://github.com/THEkingmay/Univ-Class',
         playlink:'https://study-class.netlify.app/'
+      },
+      {
+        name:'ToDolist-React-tailwind-daisyUI',
+        Description:"โปรคเจคแรกของการทำReact เว็ปto do list + tailwindcss framework + daisy UI plugin",
+        img:'',
+        vedio:'',
+        codelink:'https://github.com/THEkingmay/todo_react-tailwind_daisyUI',
+        playlink:'https://todo-react-tailwind-daisy-ui.vercel.app/'
       }
     ]
   }),
