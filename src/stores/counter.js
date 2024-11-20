@@ -71,7 +71,7 @@ export const usePortstore = defineStore('portfolio',{
         img:'',
         vedio:'',
         codelink:'https://github.com/THEkingmay/todo_react-tailwind_daisyUI',
-        playlink:'https://todo-react-tailwind-daisy-ui.vercel.app/'
+        playlink:'https://illdoitlater.vercel.app/'
       }
     ]
   }),
